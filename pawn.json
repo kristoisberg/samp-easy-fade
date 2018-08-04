@@ -1,0 +1,19 @@
+{
+	"user": "kristoisberg",
+	"repo": "easy-fade",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"kristoisberg/screen-colour-fader"
+	],
+	"dev_dependencies": [
+		"Zeex/crashdetect"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
