@@ -1,6 +1,8 @@
 # easy-fade
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-easy--fade-2f2f2f.svg?style=for-the-badge)](https://github.com/kristoisberg/easy-fade)
+[![sampctl](https://img.shields.io/badge/sampctl-easy--fade-2f2f2f.svg?style=for-the-badge)](https://github.com/kristoisberg/easy-fade)
+
+**Notice:** This repository is not being actively maintained anymore. If anyone wishes to continue the development of the project, please create a fork of the repository and release future versions there.
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
